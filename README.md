@@ -30,7 +30,7 @@ pip install -r requirements.txt
 📥 模型下载
 由于 shape_predictor_68_face_landmarks.dat 模型文件较大 (约 100MB)，本项目未直接包含该文件。
 
-请从 dlib 官方权重库 下载。
+请从 dlib 官方权重库 下载。Please download it from the [Official dlib model repository](http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2).
 
 解压并将 .dat 文件放入 models/ 文件夹下。
 
@@ -66,6 +66,7 @@ pip install -r requirements.txt
 The shape_predictor_68_face_landmarks.dat file is roughly 100MB and is not included in this repository.
 
 Please download it from the Official dlib model repository.
+Please download it from the [Official dlib model repository](http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2).
 
 Extract and place the .dat file inside the models/ directory.
 
